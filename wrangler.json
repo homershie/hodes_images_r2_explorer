@@ -6,7 +6,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "r2-explorer-app",
+  "name": "hodes-images-r2-explorer",
   "assets": {
     "directory": "node_modules/r2-explorer/dashboard",
     "binding": "ASSETS",
