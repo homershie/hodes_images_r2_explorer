@@ -39,7 +39,11 @@
    * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
    */
   "vars": {
-    "READONLY": "false"
+    "READONLY": "false",
+    "R2_EXPLORER_READONLY": "false",
+    "ENABLE_UPLOAD": "true",
+    "ALLOW_UPLOAD": "true",
+    "UPLOAD_ENABLED": "true"
   },
   /**
    * Note: Use secrets to store sensitive data.
