@@ -16,8 +16,8 @@
   "r2_buckets": [
     {
       "binding": "bucket",
-      "bucket_name": "hodes-images",
-      "preview_bucket_name": "hodes-images"
+      "bucket_name": "hodes-bucket",
+      "preview_bucket_name": "hodes-bucket"
     }
   ],
   "observability": {
